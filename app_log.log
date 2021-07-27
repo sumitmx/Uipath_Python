@@ -1,0 +1,11 @@
+23/07/2021 18:28:08- Inside split_excel_equally
+23/07/2021 18:28:10- Step 1: Input Excel is read
+23/07/2021 18:28:10- Step 2 : DF is initialized
+23/07/2021 18:28:10- Step 3 : Loop through the split_number count begins
+23/07/2021 18:28:19- Output file created : output1.xlsx
+23/07/2021 18:28:19- Total number of records : 3333
+23/07/2021 18:28:31- Output file created : output2.xlsx
+23/07/2021 18:28:31- Total number of records : 3333
+23/07/2021 18:28:33- Output file created : output3.xlsx
+23/07/2021 18:28:33- Total number of records : 3334
+23/07/2021 18:28:33- File splitting completed successfully
